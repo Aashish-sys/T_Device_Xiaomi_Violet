@@ -1,7 +1,7 @@
 #
 # Copyright (C) 2019-2020 The LineageOS Project
 # Copyright (C) 2018-2020 The SuperiorOS Project
-# Copyright (C) 2021-2022 Project Aosp
+# Copyright (C) 2021-2022 Project evolution
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -29,7 +29,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_PIXEL_CHARGER := true
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := aosp_violet
+PRODUCT_NAME := evolution_violet
 PRODUCT_DEVICE := violet
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi Note 7 Pro

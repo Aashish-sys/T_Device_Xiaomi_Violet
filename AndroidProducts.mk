@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/Pixelexperience_violet.mk
+    $(LOCAL_DIR)/aosp_violet.mk
 
 COMMON_LUNCH_CHOICES := \
     Aosp_violet-userdebug \

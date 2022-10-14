@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/Pixelexperience_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    pixelexperience_violet-userdebug \
-    pixelexperience_violet-user \
-    pixelexperience_violet-eng
+    Aosp_violet-userdebug \
+    Aosp_violet-user \
+    Aosp_violet-eng

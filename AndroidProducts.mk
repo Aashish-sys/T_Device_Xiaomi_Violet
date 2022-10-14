@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_violet.mk
+    $(LOCAL_DIR)/aosp_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_violet-userdebug \
-    evolution_violet-user \
-    evolution_violet-eng
+    aosp_violet-userdebug \
+    aosp_violet-user \
+    aosp_violet-eng

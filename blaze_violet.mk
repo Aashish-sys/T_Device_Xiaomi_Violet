@@ -1,7 +1,7 @@
 #
 # Copyright (C) 2019-2020 The LineageOS Project
 # Copyright (C) 2018-2020 The SuperiorOS Project
-# Copyright (C) 2021-2022 Project 
+# Copyright (C) 2021-2022 Project Aosp
 #
 # SPDX-License-Identifier: Apache-2.0
 #

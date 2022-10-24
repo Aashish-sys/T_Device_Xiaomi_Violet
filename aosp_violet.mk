@@ -16,7 +16,7 @@ $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 #$(call inherit-product, vendor/ANXCamera/config.mk)
 
 #Blaze
-AOSP_BUILD_TYPE := UNOFFICIAL
+AOSP_BUILD_TYPE := OFFICIAL
 AOSP_MAINTAINER := Aashish 
 
 #Gapps
